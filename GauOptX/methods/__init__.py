@@ -1,0 +1,2 @@
+from .bayesian_optimization import BayesianOptimization
+from .modular_bayesian_optimization import ModularBayesianOptimization

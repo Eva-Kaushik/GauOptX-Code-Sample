@@ -1,0 +1,20 @@
+# Include all text files
+include *.txt
+recursive-include doc *.txt
+
+# Include all Markdown files
+include *.md
+recursive-include doc *.md
+
+# Include all configuration files
+include *.cfg
+recursive-include doc *.cfg
+
+# Include all JSON files
+include *.json
+recursive-include doc *.json
+
+# Include C extension and compiled shared objects
+recursive-include GauOptX *.c
+recursive-include GauOptX *.so
+recursive-include GauOptX *.pyx

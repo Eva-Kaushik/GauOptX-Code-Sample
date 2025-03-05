@@ -1,4 +1,5 @@
 # GauOptX: Gaussian Process Optimization Framework
+This repository is a collaborative effort of Eva Kaushik(kaushikeva0026@gmail.com) and Rohit Kaushik(kaushikrohit004@gmail.com) 
 
 ## Introduction
 
@@ -154,7 +155,7 @@ We welcome contributions! Whether you’re fixing a bug, adding new functionalit
 If you use **GauOptX** in your research, please cite:
 ```
 @article{Kaushik2025,
-  author = {Eva Kaushik},
+  author = {Eva Kaushik and Rohit Kaushik},
   title = {GauOptX: A Gaussian Process Optimization Framework},
   journal = {Journal of Machine Learning Optimization},
   year = {2025},
@@ -163,5 +164,5 @@ If you use **GauOptX** in your research, please cite:
 ----------------------------------
 
 ## Contact
-For support, contact the maintainer at `kaushikeva0026@gmail.com`.
+For support, contact the maintainer at `kaushikeva0026@gmail.com' or 'Kaushikrohit004@gmail.com' .
 
